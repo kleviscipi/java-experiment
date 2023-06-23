@@ -8,5 +8,6 @@ public class Main {
 
 		System.out.println("Hello World " + person.name + " " + person.age + " ".toLowerCase());
 		System.out.println(Math.max(12,90));
+		// ok
 	}
 }
